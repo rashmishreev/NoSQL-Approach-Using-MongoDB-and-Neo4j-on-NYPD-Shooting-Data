@@ -12,9 +12,9 @@ The emotional and societal impacts of gun violence, generating fear and adversel
 
 A comprehensive list of shooting incidents in NYC from 2006, updated quarterly and reviewed by the Office of Management Analysis and Planning before publication on the NYPD website. Each entry details the event, location, time, and demographics of the suspect and victim, providing valuable information for public understanding of criminal activity.
 
-### MongoDB and Neo4J Workflows
-
+> ### MongoDB Workflow
 <img align="centre" src="Images/mongodb_flowchart.png">
 
+> ### Neo4j Workflow
 <img align="centre" src="Images/neo4j_flowchart.png">
 
