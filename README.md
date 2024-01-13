@@ -14,3 +14,7 @@ A comprehensive list of shooting incidents in NYC from 2006, updated quarterly a
 
 ### MongoDB and Neo4J Workflows
 
+<img align="centre" src="Images/mongodb_flowchart.png">
+
+<img align="centre" src="Images/neo4j_flowchart.png">
+
