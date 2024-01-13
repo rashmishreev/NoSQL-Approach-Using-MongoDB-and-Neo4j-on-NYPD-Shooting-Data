@@ -18,3 +18,27 @@ A comprehensive list of shooting incidents in NYC from 2006, updated quarterly a
 > ### Neo4j Workflow
 <img align="centre" src="Images/neo4j_flowchart.png">
 
+### MongoDB Solution
+> **Visualizations on MongoDBCharts**
+
+<img align="centre" src="Images/mongo1.png">
+
+- The initial chart displays the count of shooting incidents per New York borough in descending order, highlighting Brooklyn with the highest number (approx. 2800) and Staten Island with the fewest incidents.
+- The second chart analyzes the trend of shooting incidents from 2006 to 2021, distinguishing between incidents resulting in murders and injuries. Notably, shooting incidents spike during economic downturns, such as the 2008 Big Recession and the 2020 COVID-19 Pandemic.
+- The third chart presents statistics on age groups affected, indicating a higher impact on the 25-44 and 18-24 age brackets.
+
+<img align="centre" src="Images/mongo2.png">
+
+- The left chart indicates the racial distribution of shooting victims, with a predominant proportion among the Black race at approximately 69%, followed by white Hispanics at about 15.9%.
+- The middle chart illustrates the incident intensity across geolocations, categorized by race and ethnicity. Incidents are more intense among the Black race in the southern regions, while Black Hispanics are primarily affected in the northern part of NY.
+- The rightmost stacked bar graph summarizes the proportion of individuals from different ethnicities targeted by perpetrators of each race. It reveals that perpetrators of the Black race tend to target more individuals within their racial group, raising questions about potential intra-ethnic hate crimes.
+
+
+### Neo4J Solution
+
+> **Datamodel**
+<img align="centre" src="Images/neo4j_dbschema.png">
+
+
+
+
