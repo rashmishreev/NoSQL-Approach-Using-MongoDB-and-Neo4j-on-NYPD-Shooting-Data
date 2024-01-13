@@ -189,7 +189,7 @@ del json_b,	 json_i,	 json_j	, json_l	, json_ld	 ,json_mf	 ,json_ms	, json_p,	 j
 
 """# Add Nodes"""
 
-graph = Graph("neo4j+s://e86020ea.databases.neo4j.io", auth=("neo4j", "dZ1mOkN_w8AcF12WfUMyC_tHWB8lRSwyac5B5TTqsLo"))
+graph = Graph("neo4j+s://e86020ea.databases.neo4j.io", auth=("neo4j", "auth_key"))
 graph
 
 # Create nodes
