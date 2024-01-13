@@ -9,4 +9,5 @@ The emotional and societal impacts of gun violence, generating fear and adversel
 
 ### Dataset
 > https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic
+
 A comprehensive list of shooting incidents in NYC from 2006, updated quarterly and reviewed by the Office of Management Analysis and Planning before publication on the NYPD website. Each entry details the event, location, time, and demographics of the suspect and victim, providing valuable information for public understanding of criminal activity.
