@@ -37,7 +37,7 @@ A comprehensive list of shooting incidents in NYC from 2006, updated quarterly a
 ### Neo4J Solution
 
 > **Datamodel**
-<img align="centre" src="Images/neo4j_dbschema.png">
+<img align="centre" src="Images/neo4j_datamodel.png">
 
 
 
