@@ -7,5 +7,6 @@ The widespread issue of gun violence, notably in schools, is a significant conce
 ### Motivation
 The emotional and societal impacts of gun violence, generating fear and adversely affecting lifestyles, motivated the project to utilize historical data to assist the NYPD in preventing and reducing such incidents on a broader scale.
 
-### [Dataset](https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic)
+### Dataset
+> https://catalog.data.gov/dataset/nypd-shooting-incident-data-historic
 A comprehensive list of shooting incidents in NYC from 2006, updated quarterly and reviewed by the Office of Management Analysis and Planning before publication on the NYPD website. Each entry details the event, location, time, and demographics of the suspect and victim, providing valuable information for public understanding of criminal activity.
