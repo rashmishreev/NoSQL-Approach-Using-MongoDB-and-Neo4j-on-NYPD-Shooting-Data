@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-%234581C3?style=for-the-badge&logo=neo4j&logoColor=white)
 
-# NoSQL-Approach-Using-MongoDB-and-Neo4j-on-NYPD-Shooting-Data
+## Analyzing and Mitigating Gun Violence: A NoSQL Database-Driven Approach Using MongoDB and Neo4j
 [Blog](https://medium.com/@sachinsm2022/accelerating-data-analytics-with-nosql-database-solutions-mongodb-and-neo4j-aa7f358d540): Analyzing and Mitigating Gun Violence: A NoSQL Database-Driven Approach Using MongoDB and Neo4j on NYPD Shooting Incident Data
 
 ### Abstract
